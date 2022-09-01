@@ -15,7 +15,7 @@ Crie um diretório onde você quer usar este Projeto e abra o terminal dentro de
 * Rode o builder do Docker: ```docker-compose up --build -d```
 * Rode as aplicações de estilo: ```docker-compose -f docker-compose.yml run --publish 5173:5173 npm run dev```
 
-Após rodar todos os comando, abra a [url](http://localhost:8080) - LocalHost na porta ```8080```
+Após rodar todos os comando, abra a url [http://localhost:8080](http://localhost:8080) - LocalHost na porta ```8080```
 
 ## ⚙️ Utilizando o sistema
 
