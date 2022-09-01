@@ -9,7 +9,7 @@ O projeto consiste em uma aplicação web com sistema de login e cadastro para a
 
 ### 🔧 Instalação
 
-Crie um diretório onde você quer usar este Projeto e abra o terminal dentro dele.
+Crie um diretório onde deseja usar o Projeto e abra o terminal dentro dele.
 
 * Clone este repositório: ```git clone https://github.com/brunoxavier-dev/laravel-blog-app.git .```
 * Rode o builder do Docker: ```docker-compose up --build -d```
