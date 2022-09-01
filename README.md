@@ -1,8 +1,6 @@
 
 # Docker + Laravel
 
-# Usage
-
 Crie um diretório onde você quer usar este Projeto e abra o terminal dentro dele.
 
 * Clone este repositório: ```git clone https://github.com/brunoxavier-dev/laravel-blog-app.git .```
